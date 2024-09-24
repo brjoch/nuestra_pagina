@@ -1,13 +1,23 @@
-h1 {
-    color: red;
-    font-size: 50px;
-}
+body {
+    	background-color:#ebe6da;
+        }
 
-h1 {
-    color: blue;
-    font-size: 40px;
-}
+        h1 { 
+        	text-align:center;
+            	color:#86996e;
+                	text-decoration:underline;
+                    }
 
-h1:hover {
-    color: yellow;
+                    h2 {
+                    	
+                        	color:#86996e;
+                            	
+                                }	
+
+                                p {
+                                	color:#85786b;
+                                    }
+                                    .centrado {
+                                    	text-align:center;
+                                        }
 }
